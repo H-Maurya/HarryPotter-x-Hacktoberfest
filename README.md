@@ -1,4 +1,4 @@
-<img width="2295" alt="logo" src="https://github.com/H-Maurya/DetectiveConan/blob/main/logo1.png">
+<img width="2295" alt="logo" src="https://github.com/H-Maurya/HarryPotter-x-Hacktoberfest/blob/main/hf10.png">
 
 <br>
 <div align="center">
@@ -26,7 +26,7 @@ Hacktoberfest, in its 10th year, is a month-long celebration of open source soft
 
 
 # Harry Potter
-<img width="2295"  height="504" alt="series image" src="https://github.com/H-Maurya/DetectiveConan/blob/main/img.jpg">
+<img width="2295"  height="504" alt="series image" src="https://github.com/H-Maurya/HarryPotter-x-Hacktoberfest/blob/main/poster.jpg">
 
 Harry Potter, the beloved wizarding world created by J.K. Rowling, holds a special place in the hearts of many, evoking powerful feelings of childhood nostalgia. For those who grew up with Harry, Ron, Hermione, and the enchanting Hogwarts School of Witchcraft and Wizardry, the series is more than just books and films—it's a time capsule of our own youthful adventures. The tales of magic, friendship, and bravery transported readers and viewers to a world where the impossible became possible, where the ordinary could become extraordinary. Childhood nostalgia intertwines with Harry Potter, reminding us of a time when we believed in the magic of both fictional and real-life adventures, where the longing for a letter from Hogwarts was just as real as the characters themselves. The enchantment of Harry Potter transcends generations, continuing to bring comfort and joy as we revisit the stories and share them with new readers, passing the torch of nostalgia from one childhood to the next.
 
