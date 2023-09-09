@@ -3,11 +3,11 @@
 <br>
 <div align="center">
   
-[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/H-Maurya/DetectiveConan)
+[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/H-Maurya/HarryPotter-x-Hacktoberfest)
 <img src="https://img.shields.io/badge/HacktoberFest-2023-blueviolet" alt="Hacktober Badge"/>
 <img src="https://img.shields.io/static/v1?label=%E2%AD%90&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 <a href="https://github.com/H-Maurya" ><img src="https://img.shields.io/badge/Contributions-welcome-green.svg?style=flat&logo=github" alt="Contributions" /></a>
-<a href="https://github.com/H-Maurya/DetectiveConan/pulls"><img src="https://img.shields.io/github/issues-pr/H-Maurya/DetectiveConan" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/H-Maurya/HarryPotter-x-Hacktoberfest/pulls"><img src="https://img.shields.io/github/issues-pr/H-Maurya/HarryPotter-x-Hacktoberfest" alt="Pull Requests Badge"/></a>
   
 </div>
 
@@ -45,7 +45,7 @@ You can find all types characters [here](https://heroes-and-villain.fandom.com/w
 There is always something to contribute to a project whether you are a novice or a veteran. In this project, you can add your favourite character as a card to the website! Or maybe you didn't like the line that you are reading right now and want to change that. Sure! Why not?
 
 # How can you contribute?
-To contribute in Hacktoberfest2023 , checkout the given link and win hactoberfest t-shirt :
+To contribute in Hacktoberfest 2023 , checkout the given link and win hactoberfest t-shirt :
 https://hacktoberfest.com/
 
 
@@ -68,9 +68,9 @@ Not everyone is aware of every tool present in the world no matter how easy or c
                 </div>
                 <!--[character name] card end-->
 
-Copy this code and paste it in the index.html file to make your changes. Try and test it on your own system and then create a Pull request. You can adjust height of image of character so that it will fit in card.
+Copy this code and paste it in the index.html file to make your changes. Try and test it on your own system and then create a Pull Request. You can adjust height of image of character so that it will fit in card.
 
 
 # Congratulations!
 
-Congratulations! You just made your first pull request and if it gets merged, you can view it using the Link provided above!
+Congratulations! You just made your first pull request and if it gets merged, you can view it using the link provided above!
