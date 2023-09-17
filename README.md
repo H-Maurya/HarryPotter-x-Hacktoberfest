@@ -45,7 +45,7 @@ You can find all types characters [here](https://heroes-and-villain.fandom.com/w
 There is always something to contribute to a project whether you are a novice or a veteran. In this project, you can add your favourite character as a card to the website! Or maybe you didn't like the line that you are reading right now and want to change that. Sure! Why not?
 
 # How can you contribute?
-To contribute in Hacktoberfest 2023 , checkout the given link and win hactoberfest t-shirt :
+To contribute in Hacktoberfest 2023 , checkout the given link :
 https://hacktoberfest.com/
 
 
