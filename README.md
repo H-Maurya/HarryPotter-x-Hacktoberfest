@@ -1,3 +1,4 @@
+# THIS REPOSITORY HAS BEEN EXCLUDED 
 <img width="2295" alt="logo" src="https://github.com/H-Maurya/HarryPotter-x-Hacktoberfest/blob/main/hf10.png">
 
 <br>
