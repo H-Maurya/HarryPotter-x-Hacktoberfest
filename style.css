@@ -92,7 +92,7 @@ body {
 
 .card {
   border-radius: 20px;
-  background-color: rgba(249, 246, 246, 0.600);
+  background-color: rgba(0, 0, 0, 0.6);
   padding: 10px;
   font-family: "Poppins", sans-serif;
   margin: 25px;
@@ -130,7 +130,7 @@ ul li {
 .desc {
   margin-right: 24px;
   font-weight: 300;
-  color: #1a244d;
+  color: #f4f5f9;
 }
 
 ul li a {
